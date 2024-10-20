@@ -61,7 +61,7 @@
     "postinstall": "npm run env-clear && npm run env-setup"
   },
   "engines": {
-    "node": ">=0.10.0",
+    "node": ">=0.12.18",
     "npm": ">=1.2.10"
   },
   "licenses": [
