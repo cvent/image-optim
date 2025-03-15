@@ -50,7 +50,7 @@
     "mocha": "1.18.2",
     "mock-fs": "2.3.2",
     "sinon": "1.12.2",
-    "sinon-chai": "2.7.0"
+    "sinon-chai": "2.14.0"
   },
   "scripts": {
     "test": "npm run lint && mocha test && npm run cover",
